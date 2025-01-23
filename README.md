@@ -8,7 +8,9 @@ For this course, I have created a To Do List for myself to stay organized and he
 
 - [x] Module 1
 - [ ] Module 2
-- [ ] Module 3
+- [ ] Module 3 (upcoming for next week)
+- [ ] Module 4 (upcoming for next week)
+- [ ] Module 5 (upcoming for next week)
 - [ ] Read chapters from _R in Action_
 
 ![A cat's to do list](f0ze6-nothing-comic.jpg)
