@@ -11,4 +11,4 @@ For this course, I have created a To Do List for myself to stay organized and he
 - [ ] Module 3
 - [ ] Read chapters from _R in Action_
 
-![A cat's to do list] (f0ze6-nothing-comic.jpg)
+![A cat's to do list](f0ze6-nothing-comic.jpg)
